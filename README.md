@@ -16,3 +16,4 @@ http://projectgus.github.io/hairless-midiserial/
 Here's a painfully slow recording of me playing a minimoog clone with the Tau (under the desk) while playing an organ clone with my hands:
 https://www.youtube.com/watch?v=OYkmnKLFAKs
 
+<img src="Tau-full.jpg" alt="In all her glory">
