@@ -13,3 +13,6 @@ https://www.instructables.com/id/Send-and-Receive-MIDI-with-Arduino/
 Use the also excellent Hairless MIDI application to read the serial stream from the Tau pedals:
 http://projectgus.github.io/hairless-midiserial/
 
+Here's a painfully slow recording of me playing a minimoog clone with the Tau (under the desk) while playing an organ clone with my hands:
+https://www.youtube.com/watch?v=OYkmnKLFAKs
+
