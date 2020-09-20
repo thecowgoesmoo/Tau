@@ -5,7 +5,9 @@ Bass pedals are fun, but cost a kajillion dollars for some reason.  Meanwhile, p
 
 $5 is less than a kajillion.
 
-Informed by an excellent wikihow from from amandaghassaei:
+These are inspired by the Moog Taurus pedal bass synthesizer, but fall far short since an actual synth isn't included.  There are excellent free plugins and cheap analog synth clones to be had, though, which Tau will happily control.
+
+This project was inspired by an excellent wikihow from from amandaghassaei:
 https://www.instructables.com/id/Send-and-Receive-MIDI-with-Arduino/
 
 Use the also excellent Hairless MIDI application to read the serial stream from the Tau pedals:
