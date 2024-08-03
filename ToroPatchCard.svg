@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="12in"
+   height="8in"
+   viewBox="0 -60 304.79999 203.2"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="ToroPatchCard.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.56815789"
+     inkscape:cx="358.17508"
+     inkscape:cy="112.64474"
+     inkscape:window-width="1424"
+     inkscape:window-height="679"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999997"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="10"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <title
+     id="title1">OpenSCAD Model</title>
+  <path
+     d="M 194.23336,-55.766664 H 4.2333335 V 4.2333335 H 14.233336 V -16.766664 h 6 V 4.2333335 h 12 V -22.766664 h 6 V 4.2333335 h 8 V -16.766664 h 6 V 4.2333335 h 8.5 V -28.766664 h 6 V 4.2333335 h 8.5 v -8.9999999 h 6 v 8.9999999 h 8.5 V -34.766664 h 6 V 4.2333335 h 8.500024 V -22.766664 h 6 V 4.2333335 h 8.5 v -8.9999999 h 6 v 8.9999999 h 8.5 V -16.766664 h 6 V 4.2333335 h 8.5 V -34.766664 h 6 V 4.2333335 h 8.5 v -8.9999999 h 6 v 8.9999999 h 8.5 V -10.766664 h 6 V 4.2333335 h 11.5 z"
+     stroke="black"
+     fill="lightgray"
+     stroke-width="0.5"
+     id="path1"
+     style="fill:none;stroke:#ff0000;stroke-opacity:1" />
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>OpenSCAD Model</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <text
+     xml:space="preserve"
+     style="font-size:11.2889px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand';fill:none;stroke:#ff0000;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+     x="7.7683825"
+     y="-43.827946"
+     id="text1"><tspan
+       sodipodi:role="line"
+       id="tspan1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:Phosphate;-inkscape-font-specification:Phosphate;stroke:#0000ff;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+       x="7.7683825"
+       y="-43.827946">Space Dolphin</tspan></text>
+</svg>
